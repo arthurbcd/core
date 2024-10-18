@@ -1,3 +1,7 @@
+## 5.1.1
+
+- Move to `dart-lang/core` monorepo.
+
 ## 5.1.0
 
 - `core`:
