@@ -1,5 +1,5 @@
 ---
-name: Add an existing lint to the `core` or `recommended` rule set
+name: "package:lints - propose a change to the `core` or `recommended` rule set
 about: Propose adding an existing lint rule to the `core` or `recommended` rule set.
 title: ''
 labels: type-lint
