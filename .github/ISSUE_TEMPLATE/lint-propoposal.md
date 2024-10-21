@@ -2,7 +2,7 @@
 name: "package:lints - propose a change to the `core` or `recommended` rule set
 about: Propose adding an existing lint rule to the `core` or `recommended` rule set.
 title: ''
-labels: type-lint
+labels: ["package:lints", "type-lint"]
 
 ---
 
